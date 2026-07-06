@@ -2,17 +2,9 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=isaolivz&theme=whatsapp-dark2&hide_border=falso&short_numbers=falso)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=isaolivz&theme=gotham)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isaolivz&theme=gotham)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=008080&section=footer&reversal=false"/>
 
 
-
-
-
-
-
-
-
-
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=isaolivz&theme=react&hide_border=falso&short_numbers=falso)](https://git.io/streak-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=isaolivz&theme=blux&hide_border=falso&short_numbers=falso)](https://git.io/streak-stats)
