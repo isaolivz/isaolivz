@@ -1,4 +1,6 @@
 <img width="1200" height="258" alt="0c6bedc3efdf6b4c29477a62334becb2 - Editado" src="https://github.com/user-attachments/assets/1a1e21dd-6e97-4bde-adc0-f48405792e57" />
+<br>
+<br>
 
 <div align="center">
   
@@ -8,7 +10,6 @@
       Hi there! I'm <b>Isabella Oliveira</b>
   </samp>
 </div>
-
 
 <p align="center">
   <table align="center" border="0" style="border: none; border-collapse: collapse;">
