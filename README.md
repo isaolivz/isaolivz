@@ -32,7 +32,7 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-  <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=isaolivz&rank_icon=github&show_icons=true&theme=gotham&count_private=true">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=isaolivz&theme=gotham">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=isaolivz&theme=whatsapp-dark2&hide_border=falso&border_radius=6.1&short_numbers=falso&card_width=400&card_height=165"   alt="GitHub Streak" />
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isaolivz&theme=gotham"/>
   </a>
