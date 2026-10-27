@@ -38,8 +38,14 @@
   </a>
 </div>
 
-## Work & Study
-
+<div align="center">
+  <samp>
+      <br>
+      <i><b>Work & Study<b><i>
+    <br>
+  </samp>
+</div>
+<br>
 <div align="center">
 <table align="center">
   <tr>
